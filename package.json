@@ -1,0 +1,21 @@
+{
+  "name": "bs-glob",
+  "version": "0.1.0",
+  "scripts": {
+    "clean": "bsb -clean",
+    "clean:all": "bsb -clean-world",
+    "build": "bsb",
+    "build:all": "bsb -make-world",
+    "watch": "bsb -make-world -w"
+  },
+  "keywords": [
+    "Bucklescript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "1.7.4"
+  },
+  "dependencies": {
+    "glob": "^7.1.2"
+  }
+}
