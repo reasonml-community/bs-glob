@@ -1,5 +1,4 @@
 {
   "name": "bs-glob",
   "sources": ["src"],
-  "reason" : { "react-jsx" : true}
 }
