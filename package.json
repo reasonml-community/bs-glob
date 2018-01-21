@@ -1,6 +1,6 @@
 {
   "name": "bs-glob",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BuckleScript bindings to node-glob. Match files using the patterns the shell uses, like stars and stuff.",
   "scripts": {
     "build": "bsb -make-world",
